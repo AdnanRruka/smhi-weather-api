@@ -11,7 +11,7 @@ Built with ASP.NET Core .NET 10 Minimal API.
 ## Getting started
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/AdnanRruka/smhi-weather-api.git
 cd SMHIWeatherAPI/SMHIWeatherAPI
 dotnet run
 ```
